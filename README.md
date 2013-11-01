@@ -6,5 +6,5 @@ Inspired by [The new Kellum Method](http://http://scottkellum.com/2013/10/25/the
 Uses
 ========
 * Removal of whitespace between inline-block elements
-* An alternative to current image replacement techniques like [H5BP .visuallyhidden](https://github.com/h5bp/html5-boilerplate)
+* An alternative to current image replacement techniques like [H5BP](https://github.com/h5bp/html5-boilerplate) .visuallyhidden
 * A simple way to visually remove text content without creating extra markup 
